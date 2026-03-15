@@ -1,8 +1,10 @@
 
-body 
+.jbm-body
 {
-    color: black; /* Sets the text color */
-    background-color: #F8F8FF; /* Sets the background color */
+  margin: 0;
+  background-color: #F8F8F8;
+  font-family: sans-serif;
+  font-size: 10pt;
 }
 
 .jbm-header-div
