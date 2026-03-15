@@ -17,6 +17,45 @@
   background-color: #C0C0C0;
 }
 
+.jbm-header-links-div
+{
+  padding-top: 100px;
+  padding-left: 180px;
+  width: auto; 
+  height: auto;
+  font-size: 12px; 
+  color: #C0C0C0; 
+  float: left;
+  bottom:0;
+  height: 40px;
+  background-color: transparent;
+}
+
+.jbm-header-link:active
+{
+  color: #C0C0C0;
+  text-decoration: none;
+}
+
+.jbm-header-link:hover
+{
+  color: #C0C0C0;
+  text-decoration: none;
+}
+
+.jbm-header-link:visited
+{
+  color: #C0C0C0;
+  text-decoration: none;
+}
+
+.jbm-copyright
+{
+  position: relative;
+  color: #A0A0A0;
+  font-size: 7pt;
+}
+
 .jbm-content-div
 {
 	margin: 8;
